@@ -27,14 +27,14 @@ author:
   pronouns         : "she/her"  
   bio              : "A PhD student in UMass Amherst"
   location         : "Earth"
-  employer         : "University of Massachusetts, Amherst"
+  employer         : "UMass, Amherst"
   uri              : # URL
   email            : "qiumengli@umass.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&tzom=240&user=nyX99G8AAAAJ&authuser=1"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
@@ -60,7 +60,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "qiumengli"
+  instagram        : "qiumengli521"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
