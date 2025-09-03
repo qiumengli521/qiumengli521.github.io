@@ -13,15 +13,15 @@ Education
 ======
 * University of Massachusetts Amherst (UMass)
   * A PhD student in Mathematics                                                   09/2024-Present
-   GPA: 3.95/4.0
-   Relevant Coursework: Stochastic, Dynamic system, Introduction of machine learning.
+   * GPA: 3.95/4.0
+   * Relevant Coursework: Stochastic, Dynamic system, Introduction of machine learning.
 * China Agricultural University (CAU)
   * Master of Science in Mathematics                                                   09/2021-07/2024
-   GPA: 3.6/4.0, Major GPA: 3.96/4.0;
-   Relevant Coursework: Optimization Theory, Applied Mathematical Statistics, Numerical Analysis.
+   * GPA: 3.6/4.0, Major GPA: 3.96/4.0;
+   * Relevant Coursework: Optimization Theory, Applied Mathematical Statistics, Numerical Analysis.
   * Bachelor of Science in Mathematics                                                  09/2017-07/2021
-   GPA: 3.61/4.0, Major GPA: 3.68/4.0
-   Relevant Coursework: C programming of Computers, Probability Theory, Seminar of Machine Learning, Discrete Mathematics, Mathematical Software Trainning, etc.
+   * GPA: 3.61/4.0, Major GPA: 3.68/4.0
+   * Relevant Coursework: C programming of Computers, Probability Theory, Seminar of Machine Learning, Discrete Mathematics, Mathematical Software Trainning, etc.
 
 Publications
 ======
@@ -46,11 +46,9 @@ Service and leadership
 * Teaching Assistant for Courses                                                     03/2021-Present
  * Served as a teaching assistant for multiple courses, such as Advanced Mathematics, Calculus, Linear Algebra.
  * Corrected student assignments and answered questions. Leading discussion for Calculus II.
-
 * Minister of Finance of CAU FreeFly Roller Skating Club (about 200 members)            09/2018-09/2019
  * Managed the funds of the club.
  * Planned, organized and participated in club activities and competitions such as club recruitment, orienteering, international skating festival, etc.
-
 * Investigation on Local Living Conditions in Tuyaogou Village                                 07/2018
  * Carried out research work by visiting local villagers and going to the town to learn about local crop cultivation and consumption levels, and gained a deep understanding of the effects of poverty alleviation and the loss of population in rural areas.
 
