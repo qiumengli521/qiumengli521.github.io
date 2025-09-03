@@ -1,10 +1,8 @@
 ---
-permalink: /
+layout: single
 title: "About"
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 Hello! I am Qiumeng Li, a Ph.D. student in Mathematics at the University of Massachusetts Amherst.
 
