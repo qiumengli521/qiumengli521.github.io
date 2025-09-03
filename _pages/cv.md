@@ -13,26 +13,15 @@ Education
 ======
 * University of Massachusetts Amherst (UMass)
   * A PhD student in Mathematics                                                   09/2024-Present
-   GPA: 3.95/4.0;
+   GPA: 3.95/4.0
    Relevant Coursework: Stochastic, Dynamic system, Introduction of machine learning.
 * China Agricultural University (CAU)
   * Master of Science in Mathematics                                                   09/2021-07/2024
-   GPA: 3.6/4.0; Major GPA: 3.96/4.0;
+   GPA: 3.6/4.0, Major GPA: 3.96/4.0;
    Relevant Coursework: Optimization Theory, Applied Mathematical Statistics, Numerical Analysis.
   * Bachelor of Science in Mathematics                                                  09/2017-07/2021
-   GPA: 3.61/4.0; Major GPA: 3.68/4.0
+   GPA: 3.61/4.0, Major GPA: 3.68/4.0
    Relevant Coursework: C programming of Computers, Probability Theory, Seminar of Machine Learning, Discrete Mathematics, Mathematical Software Trainning, etc.
-
-
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
