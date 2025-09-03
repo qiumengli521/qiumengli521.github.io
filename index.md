@@ -28,3 +28,9 @@ I enjoy swimming, reading novels, traveling, documenting my life, and playing ga
   <img src="/images/photo2.jpg" width="300" style="border-radius:10px; box-shadow:2px 2px 6px #999;">
   <figcaption>Me in Sichuan (2025)</figcaption>
 </figure>
+
+<p align="center">
+  <img src="/images/photo1.jpg" width="220" style="margin:10px; border-radius:8px;">
+  <img src="/images/photo2.jpg" width="220" style="margin:10px; border-radius:8px;">
+  <img src="/images/photo3.jpg" width="220" style="margin:10px; border-radius:8px;">
+</p >
