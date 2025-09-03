@@ -14,7 +14,10 @@ Over time, my interests have shifted toward more applied directions, and now I f
 
 Outside of mathematics, I enjoy swimming, reading novels, and playing games. I also share my life with two cats: Jason, a lively tabby, and Zack, a curious black cat. They bring a lot of fun (and occasional chaos) to my everyday life.
 
-<figure>
-  <img src="/images/jasonzack.jpg" alt="My cats">
-  <figcaption>My cats</figcaption>
-</figure>
+<p align="center">
+  <img src="/images/jasonzack.jpg" alt="My cats" 
+       width="300" 
+       style="border:2px solid #ccc; border-radius:10px; box-shadow: 2px 2px 6px #999;">
+  <br>
+  <em>Jason & Zack, my lovely cats 🐱</em>
+</p>
