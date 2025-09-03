@@ -3,6 +3,7 @@ title: "Predual Spaces of Hardy Spaces Related to Fractional Schr\" odinger Oper
 authors: "Qiumeng Li, Haibo Lin, and Sibei Yang"
 collection: publications
 category: manuscripts
+date: 2023-01-01
 permalink: /publication/2023-second paper
 venue: "arXiv:2312.17021 (2023)"
 paperurl: "https://arxiv.org/abs/2312.17021"
