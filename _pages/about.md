@@ -13,3 +13,8 @@ Before moving to the U.S., I studied at China Agricultural University, where I c
 Over time, my interests have shifted toward more applied directions, and now I focus on biomathematics, exploring how mathematical tools can help us understand complex biological systems and connect theory with real-world applications.
 
 Outside of mathematics, I enjoy swimming, reading novels, and playing games. I also share my life with two cats: Jason, a lively tabby, and Zack, a curious black cat. They bring a lot of fun (and occasional chaos) to my everyday life.
+
+<figure>
+  < img src="/images/JasonZack.jpg" alt="在这里写替代文本">
+  <figcaption>My cats</figcaption>
+</figure>
