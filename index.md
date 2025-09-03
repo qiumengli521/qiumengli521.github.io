@@ -20,17 +20,17 @@ I enjoy swimming, reading novels, traveling, documenting my life, and playing ga
 </p>
 
 <figure style="text-align:center;">
-  <img src="/images/photo1.jpg" width="300" style="border-radius:10px; box-shadow:2px 2px 6px #999;">
+  <img src="/images/photo1-2.jpg" width="300" style="border-radius:10px; box-shadow:2px 2px 6px #999;">
   <figcaption>Me in Xi'an(2024)</figcaption>
 </figure>
 
 <figure style="text-align:center;">
-  <img src="/images/photo2.jpg" width="300" style="border-radius:10px; box-shadow:2px 2px 6px #999;">
+  <img src="/images/photo2-2.jpg" width="300" style="border-radius:10px; box-shadow:2px 2px 6px #999;">
   <figcaption>Me in Sichuan (2025)</figcaption>
 </figure>
 
 <p align="center">
-  <img src="/images/photo1.jpg" height="250" width="200" style="margin:10px; border-radius:8px; object-fit:cover;">
-  <img src="/images/photo2.jpg" height="250" width="200" style="margin:10px; border-radius:8px; object-fit:cover;">
-  <img src="/images/photo3.jpg" height="250" width="200" style="margin:10px; border-radius:8px; object-fit:cover;">
+  <img src="/images/photo1-2.jpg" width="200" style="margin:10px; border-radius:8px;">
+  <img src="/images/photo2-2.jpg" width="200" style="margin:10px; border-radius:8px;">
+  <img src="/images/photo3-2.jpg" width="200" style="margin:10px; border-radius:8px;">
 </p>
