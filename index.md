@@ -30,7 +30,7 @@ I enjoy swimming, reading novels, traveling, documenting my life, and playing ga
 </figure>
 
 <p align="center">
-  <img src="/images/photo1.jpg" height="200" width="200" style="margin:10px; border-radius:8px; object-fit:cover;">
-  <img src="/images/photo2.jpg" height="200" width="200" style="margin:10px; border-radius:8px; object-fit:cover;">
-  <img src="/images/photo3.jpg" height="200" width="200" style="margin:10px; border-radius:8px; object-fit:cover;">
+  <img src="/images/photo1.jpg" height="250" width="200" style="margin:10px; border-radius:8px; object-fit:cover;">
+  <img src="/images/photo2.jpg" height="250" width="200" style="margin:10px; border-radius:8px; object-fit:cover;">
+  <img src="/images/photo3.jpg" height="250" width="200" style="margin:10px; border-radius:8px; object-fit:cover;">
 </p>
