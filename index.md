@@ -5,7 +5,7 @@ permalink: /
 author_profile: ture
 ---
 
-Welcome to my websit!😄🌟🚀
+Welcome to my page!😄🌟🚀
 
 My name is Qiumeng Li. I was born on a quiet winter day in December, in a small town tucked away in Shaanxi Province, China, as snow gently fell outside. At birth, I was named Xue Li—"Xue" meaning snow—marking the season and moment of my arrival. Later, following traditional Chinese astrology, my name was changed to Qiumeng Li, a name chosen to bring balance and harmony to my life.
 
