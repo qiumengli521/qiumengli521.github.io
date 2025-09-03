@@ -20,8 +20,8 @@ I enjoy swimming, reading novels, traveling, documenting my life, and playing ga
 </p>
 
 <p align="center">
-  <img src="/images/jasonzack.jpg" height="200" style="margin:10px; border-radius:8px;">
-  <img src="/images/myfamily.jpg" height="200" style="margin:10px; border-radius:8px;">
+  <img src="/images/jasonzack.jpg" height="200" width="300" style="margin:10px; border-radius:8px;">
+  <img src="/images/myfamily.jpg" height="200" width="300" style="margin:10px; border-radius:8px;">
 </p>
 
 <p align="center"><em>My families👨👩👧👧🐈🐈‍⬛💕</em></p>
