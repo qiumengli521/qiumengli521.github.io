@@ -12,17 +12,32 @@ redirect_from:
 Education
 ======
 - **University of Massachusetts Amherst (UMass)**
-  - A PhD student in Mathematics                                                   _(09/2024-Present)_ <br>
+  - PhD student in Mathematics  _(09/2024-Present)_ <br>
    GPA: 3.95/4.0<br>
    Relevant Coursework: Stochastic, Dynamic system, Introduction of machine learning.<br>
 - **China Agricultural University (CAU)**
-  - Master of Science in Mathematics                                                   _(09/2021-07/2024)_ <br>
+  - Master of Science in Mathematics  _(09/2021-07/2024)_ <br>
    GPA: 3.6/4.0, Major GPA: 3.96/4.0<br>
    Relevant Coursework: Optimization Theory, Applied Mathematical Statistics, Numerical Analysis.<br>
   - Bachelor of Science in Mathematics                                                  _(09/2017-07/2021)_ <br>
    GPA: 3.61/4.0, Major GPA: 3.68/4.0<br>
    Relevant Coursework: C programming of Computers, Probability Theory, Seminar of Machine Learning, Discrete Mathematics, Mathematical Software Trainning, etc.
 
+## Education
+
+- **University of Massachusetts Amherst (UMass)** _(09/2024–Present)_  
+  - PhD student in Mathematics  
+  - GPA: 3.95/4.0  
+  - Relevant Coursework: Stochastic, Dynamic System, Introduction of Machine Learning  
+
+- **China Agricultural University (CAU)**  
+  - Master of Science in Mathematics _(09/2021–07/2024)_  
+    - GPA: 3.6/4.0, Major GPA: 3.96/4.0  
+    - Relevant Coursework: Optimization Theory, Applied Mathematical Statistics, Numerical Analysis  
+  - Bachelor of Science in Mathematics _(09/2017–07/2021)_  
+    - GPA: 3.61/4.0, Major GPA: 3.68/4.0  
+    - Relevant Coursework: C Programming, Probability Theory, Seminar of Machine Learning, Discrete Mathematics, Mathematical Software Training, etc.
+    - 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
