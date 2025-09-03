@@ -33,13 +33,13 @@ Publications
 ## Service and leadership
 
 - **Teaching Assistant for Courses**  _(03/2021-Present)_ 
- - Served as a teaching assistant for multiple courses, such as Advanced Mathematics, Calculus, Linear Algebra.
- - Corrected student assignments and answered questions. Leading discussion for Calculus II.
+  - Served as a teaching assistant for multiple courses, such as Advanced Mathematics, Calculus, Linear Algebra.
+  - Corrected student assignments and answered questions. Leading discussion for Calculus II.
 - **Minister of Finance of CAU FreeFly Roller Skating Club (about 200 members)**       _(09/2018-09/2019)_ 
- - Managed the funds of the club.
- - Planned, organized and participated in club activities and competitions such as club recruitment, orienteering, international skating festival, etc.
+  - Managed the funds of the club.
+  - Planned, organized and participated in club activities and competitions such as club recruitment, orienteering, international skating festival, etc.
 - **Investigation on Local Living Conditions in Tuyaogou Village**   _(07/2018)_ 
- - Carried out research work by visiting local villagers and going to the town to learn about local crop cultivation and consumption levels, and gained a deep understanding of the effects of poverty alleviation and the loss of population in rural areas.
+  - Carried out research work by visiting local villagers and going to the town to learn about local crop cultivation and consumption levels, and gained a deep understanding of the effects of poverty alleviation and the loss of population in rural areas.
 
 Interests
 ======
