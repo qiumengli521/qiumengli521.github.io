@@ -1,0 +1,10 @@
+---
+title: "My First Paper"
+authors: "Qiumeng Li"
+collection: publications
+permalink: /publication/my-first-paper
+date: 2025-01-01
+venue: "Journal of Interesting Math"
+paperurl: "https://arxiv.org/abs/1234.5678"
+weight: 1
+---
